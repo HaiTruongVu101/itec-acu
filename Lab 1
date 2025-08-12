@@ -1,0 +1,105 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOg5Jtca4zgTSPhZP9g0/CH",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/HaiTruongVu101/itec-acu/blob/main/Lab%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Lab 1 Practices\n",
+        "## Lab 1 Practices\n",
+        "### Lab 1 Practices"
+      ],
+      "metadata": {
+        "id": "KPf83RpWxv-7"
+      },
+      "execution_count": 33,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Hai Truong Vu, Welcome to ITEC102!\")\n",
+        "print(\"Hai Truong Vu, Welcome to ITEC102!\")\n",
+        "print(\"Hai Truong Vu, Welcome to ITEC102!\")\n",
+        "print(\"Hai Truong Vu, Welcome to ITEC102!\")\n",
+        "print(\"Hai Truong Vu, Welcome to ITEC102!\")\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "MwNo8Dl9vLON",
+        "outputId": "b026334e-06cb-4281-a619-5020f6b10b6d"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hai Truong Vu, Welcome to ITEC102!\n",
+            "Hai Truong Vu, Welcome to ITEC102!\n",
+            "Hai Truong Vu, Welcome to ITEC102!\n",
+            "Hai Truong Vu, Welcome to ITEC102!\n",
+            "Hai Truong Vu, Welcome to ITEC102!\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "print(\"Hai Truong Vu, Welcome to ITEC102! \\n\" *5 )"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "q1zZT3fIvvh9",
+        "outputId": "3de3d1c2-d59a-42d8-daf7-dd9f4522ac0a"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hai Truong Vu, Welcome to ITEC102! \n",
+            "Hai Truong Vu, Welcome to ITEC102! \n",
+            "Hai Truong Vu, Welcome to ITEC102! \n",
+            "Hai Truong Vu, Welcome to ITEC102! \n",
+            "Hai Truong Vu, Welcome to ITEC102! \n",
+            "\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
